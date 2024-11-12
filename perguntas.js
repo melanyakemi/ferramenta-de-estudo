@@ -1,6 +1,6 @@
 criaCartao(
     'QUIZIZZ',
-    'FF?',
+    '?',
     'duas equipes com 5 atletas'
 )
 
