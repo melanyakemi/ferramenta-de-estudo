@@ -1,19 +1,21 @@
 criaCartao(
     'QUIZIZZ',
-    '?',
-    'duas equipes com 5 atletas'
+<<<<<<< HEAD
+    'De quem é a famosa frase “Penso, logo existo”?',
+    'Descartes'
+=======
+  
+
+criaCartao(
+    'QUIZIZZ',
+    ' Qual o nome do presidente do Brasil que ficou conhecido como Jango??',
+    'João Goulart'
 )
 
 criaCartao(
     'QUIZIZZ',
-    'quanto tempo dura uma partida de futsal?',
-    '40 minutos'
-)
-
-criaCartao(
-    'QUIZIZZ',
-    'quais são os cartões usados no futsal?',
-    'cartões amarelos ou vermelhos'
+    'Qual a nacionalidade de Che Guevara?',
+    'Argentina'
 )
 
 criaCartao(
