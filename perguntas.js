@@ -1,6 +1,6 @@
 criaCartao(
     'QUIZIZZ',
-    'quantos jogadores participam em uma partida de futsal?',
+    'FF?',
     'duas equipes com 5 atletas'
 )
 
